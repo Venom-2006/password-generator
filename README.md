@@ -21,6 +21,9 @@ It allows users to generate strong passwords with customizable options such as l
 🛠 Technologies Used
 
 1)React
+
 2)JavaScript (ES6)
+
 3)HTML5
+
 4)CSS3
